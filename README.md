@@ -6,6 +6,9 @@ An extension to monetize your application with Applovin Ads.
 ## What is Applovin?
 AppLovin is a global technology platform that provides developers the most powerful, integrated set of solutions to grow their businesses. It enables developers of all sizes to market, monetize, analyze and publish their apps. It was founded in 2011 and headquartered in Palo Alto, California.
 
+## Bidding supported with
+<li> Admob
+
 ## Properties
 Set true if you want to show the loaded ad automatically after loaded.
 
